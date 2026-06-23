@@ -20,7 +20,7 @@ Predicción de la demanda eléctrica a corto plazo (15 minutos adelante) utiliza
 ├── demanda_historica.png
 ├── predicciones_vs_real.png
 ├── comparacion_metricas.png
-├── ProyectoIA_C23562.pdf      # Documentación del proyecto
+├── Proyecto2IA_C23562.pdf      # Documentación del proyecto
 ├── MODELCARD.md
 └── README.md
 ```
